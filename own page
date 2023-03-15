@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="UTF-8"/>
+  <meta name="description" content="This is an awesome website"/> 
+  <head>
+   <title>
+       dept store
+   </title>
+  </head> 
+  <body bgcolor= "yellow">
+    <h1 style ="color:red;"><b><i>sanjay welcomes you</i></b></h1>
+    <img src="IMG_1762.jpg"width="500"height="">
+    <h4><b><i>description:</i></b></h4>
+    <p style ="color:blue;">
+     <b><big>sanjay</big></b> store is a newly opened store to provide the all the products you want which are very less in cost than others and we make the customers to put smile on their faces and the offers every weekend
+    </p></break>
+    <hr bgcolor="blue">
+    <p>we provide some super and mega deals to the customers</p>
+    <!--this is the demo for learning how the webpage works-->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sPvQ-v_xiSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></a>
+  </body>
+</html>
