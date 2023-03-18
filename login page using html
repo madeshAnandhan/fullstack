@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>
+            login page
+        </title>
+    </head>
+    <body bgcolor="#ADD8E6">
+       <center>  
+        <h1 align="center"><b>login page</b></h1>
+        <form action="login.php" > 
+         <table>
+          <tr>
+             <td>Username:</td>
+            <td>
+                <input  type ="email"  name="username" size="30" placeholder="Enter Email id here"/>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                password:
+            </td>
+            <td>
+                <input type="password" name="password" size="30" placeholder="Enter Password here">
+            </td>
+          </tr>
+          <tr>
+            <td>
+            
+              <input type="submit">
+                
+            </td>
+            <td>
+                not yet a member?<a href="register.html">Register</a>
+            </td>
+          </tr>
+         </table> 
+        </form>
+       </center>
+    </body>
+</html>
